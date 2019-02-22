@@ -49,9 +49,9 @@ if %ERRORLEVEL% GEQ 1 EXIT /B 1
 
 @echo Compiling map script . . .
 IF "%gui%"=="true" (
-  "..\tools\JassHelper\jasshelper.exe" "..\%input%\common.j" "..\%input%\blizzard.j" "..\%output%\war3map.processed.j" "..\%output%\%map%"
+  "..\tools\JassHelper\jasshelper.exe" "..\common.j" "..\blizzard.j" "..\%output%\war3map.processed.j" "..\%output%\%map%"
 ) ELSE (
-  "..\tools\JassHelper\clijasshelper.exe" "..\%input%\common.j" "..\%input%\blizzard.j" "..\%output%\war3map.processed.j" "..\%output%\%map%"
+  "..\tools\JassHelper\clijasshelper.exe" "..\common.j" "..\blizzard.j" "..\%output%\war3map.processed.j" "..\%output%\%map%"
 )
 if %ERRORLEVEL% GEQ 1 EXIT /B 1
 @echo.
