@@ -8,6 +8,9 @@
 		"files.exclude": {
 			".git/": true,
 			".vscode/": true,
+			"backups/": true,
+			"logs/": true,
+			"out/": true,
 			"src/backups/": true,
 			"src/grimext/": true,
 			"src/logs/": true,
