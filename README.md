@@ -1,2 +1,2 @@
-# GladiatorGlory
-A gladiator map for Warcraft III.
+# Gladiator Glory
+An open source gladiator map for Warcraft III.
