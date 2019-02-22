@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "./"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			".git/": true,
+			".vscode/": true,
+			"src/backups/": true,
+			"src/grimext/": true,
+			"src/logs/": true,
+			"src/map.w3x": true,
+			"src/war3map.j": true,
+			"tools/": true,
+			".gitignore": true,
+			"build.bat": true,
+			"build-static-objects.bat": true,
+			"build-test.bat": true,
+			"clean.bat": true,
+			"environment.bat": true,
+			"Gladiator Glory.code-workspace": true,
+			"LICENSE": true,
+			"README.md": true,
+		}
+	}
+}

@@ -1,0 +1,7 @@
+# all the generated files are ignored
+backups/
+logs/
+out/
+
+# environment is ignored too and created on demand
+environment.bat

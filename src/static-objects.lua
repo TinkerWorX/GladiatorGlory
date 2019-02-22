@@ -1,0 +1,2 @@
+-- creates objects if the static object build script is run
+-- THIS WORKS ON THE MAIN MAP, WHICH MUST BE CLOSED BEFORE THIS IS RUN
